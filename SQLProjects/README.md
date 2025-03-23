@@ -9,21 +9,21 @@ This project analyzes COVID-19 data, focusing on cases, deaths, and vaccinations
 - Data source: [Our World in Data](https://ourworldindata.org/coronavirus)
 
 ## 🛠️ Skills Demonstrated
-### 1️ Data Querying & Filtering
+## 1️ Data Querying & Filtering
 - `SELECT`, `WHERE`, `ORDER BY` for extracting and sorting relevant data
 - Filtering specific locations (`WHERE location LIKE '%States%'`)
 
-### 2️ Data Aggregation & Statistical Analysis
+## 2️ Data Aggregation & Statistical Analysis
 - **Summarizing data** with `SUM()`, `MAX()`, and `COUNT()`
 - **Calculating key metrics**:
   - Death rate: `(total_deaths / total_cases) * 100`
   - Infection rate: `(total_cases / population) * 100`
   - Vaccination rate: `(total_vacc_loc / population) * 100`
 
-### 3️ Joins & Data Relationships
+## 3️ Joins & Data Relationships
 - **Merging datasets** using `INNER JOIN` to combine COVID cases and vaccination data
 
-### 4️ Advanced SQL Techniques
+## 4️ Advanced SQL Techniques
 - **Common Table Expressions (CTEs)** for improved query readability
 - **Window Functions** (`SUM() OVER (PARTITION BY location ORDER BY date)`) for running totals
 - **Temporary Tables** to store intermediate results for further analysis
