@@ -42,7 +42,7 @@ This project analyzes COVID-19 data, focusing on cases, deaths, and vaccinations
 
 ---
 
-💡 **Developed by:** Sarah Santos 
+💡 **Developed by:** Sarah Santos    
 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sanarahtos/)
 
 ---
