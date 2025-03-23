@@ -29,12 +29,12 @@ Analyzing COVID-19 trends worldwide, including infection rates, death rates, and
 ### [2️⃣ Colleges and Salaries Analysis *(Excel, R, PowerPoint)*](https://github.com/sanarahtos/CECS450-Data-Visualization-Project)
 Group project for Data Visualization class comparing various colleges and majors and their salary outcomes
 
-### [3️⃣ Image Classification with Convolutional Neural Networks** *(Python & Jupyter)*](https://github.com/sanarahtos/CECS456-Machine-Learning-NN-Project/tree/main)
+### [3️⃣ Image Classification with Convolutional Neural Networks *(Python & Jupyter)*](https://github.com/sanarahtos/CECS456-Machine-Learning-NN-Project/tree/main)
 Categorized 8 different types of images with different CNN models and finding the best accuracy
 
 ---
 
-💡 **Developed by:** Sarah Santos
+💡 **Developed by:** Sarah Santos    
 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sanarahtos/)
 
 ---
