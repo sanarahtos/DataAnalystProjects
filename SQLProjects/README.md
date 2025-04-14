@@ -8,7 +8,7 @@ This project analyzes COVID-19 data, focusing on cases, deaths, and vaccinations
 - `CovidVaccinations` - Includes vaccination data
 - Data source: [Our World in Data](https://ourworldindata.org/coronavirus)
 
-## 🛠️ Skills Demonstrated
+## 🛠️ SQL Skills Demonstrated
 ## 1️ Data Querying & Filtering
 - `SELECT`, `WHERE`, `ORDER BY` for extracting and sorting relevant data
 - Filtering specific locations (`WHERE location LIKE '%States%'`)
@@ -29,16 +29,25 @@ This project analyzes COVID-19 data, focusing on cases, deaths, and vaccinations
 - **Temporary Tables** to store intermediate results for further analysis
 - **Views** (`CREATE VIEW`) for reusable queries in **Tableau**
 
+---
+
+## 📈 Tableau Visualization
+
+To communicate insights visually, I created a dashboard in Tableau:
+
+> [**“A Year in the Life of COVID-19: Look into the first year of the COVID pandemic around the world”**](https://public.tableau.com/shared/Z7ZPWWF7N?:display_count=n&:origin=viz_share_link)
+
+The dashboard presents:
+- **Total global COVID-19 cases and deaths**
+- **Infection rates by country**
+- **Death counts by continent**
+- **Population infection trends over time**
+
 ## 📈 Insights & Key Findings
 - **Likelihood of Death:** Analyzed total cases vs. total deaths to determine the fatality rate
 - **Infection Rate:** Examined the percentage of the population infected in different countries
 - **Vaccination Trends:** Tracked cumulative vaccinations over time
 - **Global Comparisons:** Identified countries and continents with the highest infection and death rates
-
-## 📌 Future Enhancements
-- Automating data updates via **ETL pipeline**
-- Enhancing performance with **indexing**
-- Expanding analysis to **regional trends**
 
 ---
 
