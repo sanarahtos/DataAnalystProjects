@@ -1,0 +1,113 @@
+﻿ID,Account,Location Mapping,Description,Period 1,Period 2,Period 3,Period 4,Period 5,Period 6,Period 7,Period 8,Period 9,Period 10,Period 11,Period 12,Period 13,Total,Current Period - Per Week,Area
+5767,    47000,Long Beach,    Other Sales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+5775,    49010,Long Beach,  Comps & Discounts,4581,5328,5352,6867,6360,6975,6779,4907,5998,7323,2800,2562,2500,68332,1716.75,So Cal 4
+5783,    78000,Long Beach,  Interest Expense,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+5791,    51100,Long Beach,      Food Costs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+5799,    51110,Long Beach,    Meat Costs,5929,5951,6742,6733,6722,6618,6859,6687,6737,6409,6762,6188,6037,84374,1683.25,So Cal 4
+5807,    51115,Long Beach,    Vegan Meat Costs,593,595,674,673,672,662,686,669,674,641,676,619,604,8438,168.25,So Cal 4
+5815,    51120,Long Beach,    Poultry Costs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+5823,    51130,Long Beach,    Seafood Costs,198,198,225,224,224,221,229,223,225,214,225,206,201,2813,56,So Cal 4
+5831,    51200,Long Beach,    Bread Costs,4941,4959,5618,5611,5601,5515,5716,5573,5614,5341,5635,5157,5031,70312,1402.75,So Cal 4
+5839,    51300,Long Beach,    Dairy Costs,791,794,899,898,896,882,914,892,898,855,902,825,805,11251,224.5,So Cal 4
+5847,    51400,Long Beach,    Produce Costs,2174,2182,2472,2469,2465,2426,2515,2452,2470,2350,2479,2269,2214,30937,617.25,So Cal 4
+5855,    51500,Long Beach,    Grocery and Dry Good Costs,4941,4959,5618,5611,5601,5515,5716,5573,5614,5341,5635,5157,5031,70312,1402.75,So Cal 4
+5863,    51510,Long Beach,    Frozen Good Costs,198,198,225,224,224,221,229,223,225,214,225,206,201,2813,56,So Cal 4
+5871,    52400,Long Beach,      Non-Alcoholic Beverage Costs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+5879,    52400,Long Beach,    Beverage Costs,1609,1615,1829,1827,1824,1795,1861,1814,1828,1739,1835,1679,1638,22893,456.75,So Cal 4
+5887,    53100,Long Beach,      Paper Costs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+5895,    53100,Long Beach,    Paper and Packaging Costs,1609,1615,1829,1827,1824,1795,1861,1814,1828,1739,1835,1679,1638,22893,456.75,So Cal 4
+5903,    63010,Long Beach,      Crew - Regular Wage,18355,18402,20873,20074,20039,19729,20448,19936,20085,19475,20546,18803,18345,255110,5018.5,So Cal 4
+5911,    63200,Long Beach,      Crew - Bonus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+5919,    63300,Long Beach,      Crew - Training,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+6016,    63500,Long Beach,      Crew - Payroll Tax,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+6024,    63600,Long Beach,      Crew - EE Benefit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8338,    41000,Long Beach,    Food Sales,-100331,-101321,-114234,-115612,-114916,-113849,-117546,-112903,-114799,-110833,-112000,-102500,-100000,-1430844,-28903,So Cal 4
+8340,    65020,Long Beach,      Management - Regular Wage,4912,4924,5586,5372,5363,5280,5472,5335,5375,5212,5498,5032,4909,68270,1343,So Cal 4
+8348,    65200,Long Beach,      Management - Bonus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8356,    72305,Long Beach,      Management - Training,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8364,    66010,Long Beach,      Payroll Taxes - ER,2172,2177,2469,2375,2371,2334,2419,2359,2376,2304,2431,2225,2170,30182,593.75,So Cal 4
+8372,    66100,Long Beach,      Insurance - Worker's Comp,207,207,235,226,226,222,230,225,226,219,232,212,207,2874,56.5,So Cal 4
+8380,    65035,Long Beach,      Insurance - EE Health,207,207,235,226,226,222,230,225,226,219,232,212,207,2874,56.5,So Cal 4
+8388,    70110,Long Beach,      Supplies - Smallwares,56,44,65,96,35,70,69,78,69,52,96,88,85,903,24,So Cal 4
+8396,    70130,Long Beach,      Supplies - Linen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8404,    70140,Long Beach,      Supplies - Kitchen,146,114,169,250,91,183,178,204,179,135,248,228,222,2347,62.5,So Cal 4
+8412,    70150,Long Beach,      Supplies - Office,56,44,65,96,35,70,69,78,69,52,96,88,85,903,24,So Cal 4
+8420,    70160,Long Beach,      Supplies - Paper,326,255,376,558,203,409,397,455,400,300,554,507,495,5235,139.5,So Cal 4
+8428,    70200,Long Beach,      Supplies - Cleaning,393,307,454,674,245,493,480,549,483,362,669,612,597,6318,168.5,So Cal 4
+8436,    70170,Long Beach,      Supplies - Uniforms & Laundry,146,114,169,250,91,183,178,204,179,135,248,228,222,2347,62.5,So Cal 4
+8444,    71010,Long Beach,      Automobile Expense - Auto Payments,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8452,    71011,Long Beach,      Automobile Expense - Parking/Tolls,60,42,54,62,49,42,82,75,40,57,44,55,54,716,15.5,So Cal 4
+8460,    71012,Long Beach,      Automobile Expense - Fuel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8468,    71013,Long Beach,      Automobile Expense - Maintenance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8476,    71020,Long Beach,      Travel Expense - Airfare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8484,    71021,Long Beach,      Travel Expense - Auto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8492,    71022,Long Beach,      Travel Expense - Lodging,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8500,    71023,Long Beach,      Travel Expense - Meals & Entertainment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8508,    71040,Long Beach,      Decor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8516,    46100,Long Beach,      Delivery Costs,1730,1218,1575,1787,1425,1223,2374,2175,1157,1651,1267,1594,1555,20731,446.75,So Cal 4
+8524,    71050,Long Beach,      Dues & Subscriptions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8532,    71051,Long Beach,      Music Subscription Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8540,    71060,Long Beach,      Meals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8548,    71061,Long Beach,      Entertainment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8556,    71070,Long Beach,      Donations/Charitable Contributions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8564,    71500,Long Beach,      Miscellaneous Expense,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8572,    71510,Long Beach,      Employee Reimbursed Expenses,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8580,    71520,Long Beach,      Unallocated Credit Card Expense,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8588,    71030,Long Beach,      Cash (Over)/Short,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8596,    72110,Long Beach,      Advertising & Promotions,387,571,506,504,773,381,283,1174,503,1087,1529,1399,1366,10463,126,So Cal 4
+8604,    72120,Long Beach,      Marketing & Website Domain,55,82,72,72,110,54,40,168,72,155,218,200,195,1493,18,So Cal 4
+8613,    72140,Long Beach,      Printing & Reproduction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8621,    72150,Long Beach,      Menus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8629,    72210,Long Beach,      Insurance - Liability/Cyber,242,0,235,235,235,235,235,234,0,0,229,229,229,2338,58.75,So Cal 4
+8637,    72215,Long Beach,      Insurance - Property,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8645,    72220,Long Beach,      Insurance - EPLI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8657,    72230,Long Beach,      Insurance - Keyman Life,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8658,    72230,Long Beach,      Insurance - Keyman Life,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8669,    72250,Long Beach,      Insurance - Auto,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8677,    72290,Long Beach,      Insurance - Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8685,    72300,Long Beach,      Maintenance - Regular Wage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8693,    72310,Long Beach,      R&M - Building,200,1196,208,124,428,802,1340,1278,379,414,436,400,390,7595,31,So Cal 4
+8701,    72315,Long Beach,      R&M - Equipment,100,598,104,62,214,401,670,639,190,207,218,200,195,3798,15.5,So Cal 4
+8709,    72320,Long Beach,      R&M - Kitchen,100,598,104,62,214,401,670,639,190,207,218,200,195,3798,15.5,So Cal 4
+8717,    72330,Long Beach,      R&M - Pest Control,50,299,52,31,107,200,335,320,95,104,109,100,98,1900,7.75,So Cal 4
+8725,    72350,Long Beach,      R&M - Plumbing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8733,    72360,Long Beach,      R&M - Refrigeration,50,299,52,31,107,200,335,320,95,104,109,100,98,1900,7.75,So Cal 4
+8741,    72370,Long Beach,      R&M - Grease Trap,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8749,    72380,Long Beach,      R&M - Janitorial,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8757,    72410,Long Beach,      Electric,992,1083,941,908,938,1011,1600,1797,1553,1485,1491,1364,1365,16528,227,So Cal 4
+8765,    72420,Long Beach,      Gas,57,62,54,52,54,58,91,103,89,85,85,78,78,946,13,So Cal 4
+8773,    72430,Long Beach,      Water,113,124,108,104,107,116,183,205,177,170,170,156,156,1889,26,So Cal 4
+8781,    72440,Long Beach,      Waste Removal,1445,1577,1372,1323,1367,1474,2332,2618,2263,2164,2172,1988,1989,24084,330.75,So Cal 4
+8789,    72450,Long Beach,      Telephone,170,186,161,156,161,173,274,308,266,255,256,234,234,2834,39,So Cal 4
+8797,    72451,Long Beach,      Internet,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8805,    72470,Long Beach,      Security Alarm,57,62,54,52,54,58,91,103,89,85,85,78,78,946,13,So Cal 4
+8813,    72580,Long Beach,      Royalty Expense,1831,1834,2085,2084,2082,2054,2116,2067,2084,0,0,0,0,18237,521,So Cal 4
+8821,    73000,Long Beach,      Admin - Regular Wage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8829,952,Long Beach,      Officer - EE Benefit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8838,    73400,Long Beach,      Computer & Software Expense,803,1032,1036,836,835,735,771,793,972,906,790,790,790,11089,209,So Cal 4
+8846,    73410,Long Beach,      Equipment Rental,46,59,59,48,48,42,44,45,56,52,45,45,45,634,12,So Cal 4
+8854,    71065,Long Beach,      Bank Charges,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8862,    73510,Long Beach,      Bank Charges - NSF & Late Payment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8870,    73520,Long Beach,      Business Licenses & Permits,321,413,414,335,334,294,308,317,389,362,316,316,316,4435,83.75,So Cal 4
+8878,    73530,Long Beach,      Credit Card Fees,1078,1386,1391,1123,1122,986,1035,1064,1305,1216,1061,1061,1061,14889,280.75,So Cal 4
+8886,    54100,Long Beach,      3rd Party Delivery Fees (Commissions),4177,2941,3801,4314,3440,2953,5731,5250,2792,3985,3058,3848,3754,50044,1078.5,So Cal 4
+8894,    73550,Long Beach,      Postage & Shipping,46,59,59,48,48,42,44,45,56,52,45,45,45,634,12,So Cal 4
+8902,    75100,Long Beach,      Accounting Expenses,4956,5087,3722,6712,6553,6688,7090,5059,5440,4658,4914,4497,4388,69764,1678,So Cal 4
+8910,    75110,Long Beach,      Consulting Expenses,1239,1272,931,1678,1638,1672,1772,1265,1360,1164,1228,1124,1097,17440,419.5,So Cal 4
+8918,    75130,Long Beach,      Legal Expenses,1189,1221,893,1611,1573,1605,1702,1214,1306,1118,1179,1079,1053,16743,402.75,So Cal 4
+8926,    75140,Long Beach,      Management Fee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8934,    75150,Long Beach,      Outside Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8942,    75160,Long Beach,      Recruiting Services,50,51,37,67,66,67,71,51,54,47,49,45,44,699,16.75,So Cal 4
+8950,    75170,Long Beach,      Payroll Processing Expenses,2478,2544,1861,3356,3276,3344,3545,2530,2720,2329,2457,2249,2194,34883,839,So Cal 4
+8958,    77100,Long Beach,    Rent - Base,10171,10171,10171,10171,10171,10171,10171,10171,10171,10171,10171,10171,10171,132223,2542.75,So Cal 4
+8966,    77110,Long Beach,    Rent - CAM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8974,    77130,Long Beach,    Rent - Storage,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8982,    77140,Long Beach,    Rent - Other,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+8990,    79100,Long Beach,    Depreciation Expense,3934,3934,3821,3821,3982,3853,3853,3853,3853,0,4513,4513,4513,48443,955.25,So Cal 4
+8998,    80400,Long Beach,      Other Income,0,0,0,0,-80,0,0,0,0,0,0,0,0,-80,0,So Cal 4
+9006,    81300,Long Beach,      Federal Taxes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+9014,    81500,Long Beach,      LLC/State Taxes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+9022,    73570,Long Beach,      Overhead Allocation/Income,2872,2911,3266,3290,3256,3207,3323,3240,26085,2033,0,0,0,53483,822.5,So Cal 4
+9030,    81600,Long Beach,      Other Expense,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+9038,    81900,Long Beach,      Loss (Gain) on Sale of Asset,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
+9046,    82100,Long Beach,      Discontinued Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,So Cal 4
